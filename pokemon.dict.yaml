@@ -1,5 +1,5 @@
 ---
-name: luna_pinyin.cn_en
+name: pokemon
 version: "2023.12.21"
 sort: original
 use_preset_vocabulary: true
@@ -821,6 +821,9 @@ use_preset_vocabulary: true
 纸御剑
 恶食大王
 奈克洛兹玛
+黄昏之鬃
+拂晓之翼
+究极奈克洛兹玛
 玛机雅娜
 玛夏多
 毒贝比
